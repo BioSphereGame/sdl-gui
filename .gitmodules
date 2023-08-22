@@ -1,0 +1,3 @@
+[submodule "rust-sdl2_gfx"]
+	path = rust-sdl2_gfx
+	url = https://github.com/andelf/rust-sdl2_gfx
