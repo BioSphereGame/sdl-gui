@@ -1,2 +1,2 @@
 # sdl-gui
-Lib what provides stuff to work with windows and GUI
+**(LIB IS NOT IN USE RIGTH NOW)** Lib what provides stuff to work with windows and GUI
